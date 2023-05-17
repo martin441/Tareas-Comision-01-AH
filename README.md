@@ -6,7 +6,7 @@ Explicaremos los pasos a seguir para poder realizar cualquier tipo de tarea.
 
 Ubicarnos dentro de la carpeta que queremos trabajar con el CLI, para esto podemos iniciar el Visual Studio dentro de la carpeta o ir moviendonos utilizando los comandos "ls" para ver las carpetas "cd nombre_de_la_carpeta" para ir hacia una carpeta y "cd .." para retroceder, por ejemplo si queremos realizar la tarea de la unidad 1-4 debemos estar parados en dicha carpeta
 
-![Image](img\Screenshot_2.png)
+![Image](https://github.com/cicarelligiuliano/Tareas-Comision-01-AH/blob/main/img/Screenshot_2.png)
 
 ### Paso 2
 
