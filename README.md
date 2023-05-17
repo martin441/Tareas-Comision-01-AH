@@ -12,16 +12,16 @@ Ubicarnos dentro de la carpeta que queremos trabajar con el CLI, para esto podem
 
 Debemos correr el comando `npm i` para instalar todas las dependencias que tengamos
 
-![Image](img\Screenshot_1.png)
+![Image](https://github.com/cicarelligiuliano/Tareas-Comision-01-AH/blob/main/img/Screenshot_1.png)
 
 ### Paso 3
 
 Una vez instaladas las dependencias corremos el comando `npm test` que nos indicara que todos los test no fueron pasados:
 
-![Image](img\Screenshot_3.png)
+![Image](https://github.com/cicarelligiuliano/Tareas-Comision-01-AH/blob/main/img/Screenshot_3.png)
 
 ### Paso 4
 
 Empezar a resolver los ejercicios e ir comprobando utilizando `npm test` si los ejercicios se pasaron o no
 
-![Image](img\Screenshot_4.png)
+![Image](https://github.com/cicarelligiuliano/Tareas-Comision-01-AH/blob/main/img/Screenshot_4.png)
