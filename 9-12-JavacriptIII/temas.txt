@@ -1,0 +1,10 @@
+Closure
+Callback
+Metodos avanzados de arreglos
+Math
+Date
+Destructuracion
+Spread operator
+Sincronismo y Asincronismo
+Promesas
+Async y Await
