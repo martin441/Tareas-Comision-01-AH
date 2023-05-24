@@ -20,7 +20,7 @@ let e = undefined;
 
 // Declara una variable con el formato de fecha
 
-let date;
+let date = new Date();
 
 // Crear una variable de tipo "error"
 
