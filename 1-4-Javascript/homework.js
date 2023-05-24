@@ -16,7 +16,7 @@ let d = null;
 
 // "e" debe ser undefined
 
-let e = "Debo ser undefined!!!!!";
+let e = undefined;
 
 // Declara una variable con el formato de fecha
 
