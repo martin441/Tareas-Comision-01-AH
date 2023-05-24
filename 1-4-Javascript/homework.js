@@ -12,7 +12,7 @@ let c = true;
 
 // "d" debe ser "null"
 
-let d;
+let d = null;
 
 // "e" debe ser undefined
 
